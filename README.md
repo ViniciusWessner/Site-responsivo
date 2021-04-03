@@ -9,4 +9,4 @@ o controle destas tarefas vao ser feitas pelo github
 :package: nova funcionalidade
 :up: atualizacao
 :beatle: correcao de bug
-:checkred_flag: release
+:checkered_flag: release
