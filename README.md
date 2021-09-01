@@ -1,5 +1,7 @@
+# Link para acesso ao site:
+https://viniciuswessner.github.io/Site-responsivo/
 # Tecnologias utilizadas para a criação
-criando meu primeiro portifolio
+Html, Css e Javascript
 
 # Tarefas a fazer
 o controle destas tarefas vao ser feitas pelo github
