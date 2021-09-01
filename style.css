@@ -19,8 +19,21 @@ body{
     font-size: 16px;
 }
 
+
+
+.show-menu.hamburger{
+    right: 18rem;
+
+}
+
+
+
+
+
+
 .hamburger{
     
+   /* background-color: red;*/
     width: 2em;
     height: 2em;
     position: fixed;
@@ -30,22 +43,18 @@ body{
     display: flex;
     flex-direction: column;
     justify-content:space-evenly;
-}
-
-.show-menu.hamburger{
-    right: 18rem;
-
+    cursor: pointer;
 }
 
 .line{
-width: 100%;
-height: .1rem;
-background-color: aliceblue;
-box-shadow: 0.1rem 0.1rem 1px black;
-cursor: pointer;
-
-
+    width: 100%;
+    height: .1rem;
+    background-color: aliceblue;
+    box-shadow: 0.1rem 0.1rem 1px rgb(43, 43, 43);
+    cursor: pointer;
 }
+
+
 
 header{
     width: 100%;
@@ -159,7 +168,7 @@ header{
     
 }
 
-.show-menu.sidebar{
+.sidebar.show-menu{
     right: 0;
     
 }

@@ -1,4 +1,4 @@
-# Portifolio
+# Tecnologias utilizadas para a criação
 criando meu primeiro portifolio
 
 # Tarefas a fazer
